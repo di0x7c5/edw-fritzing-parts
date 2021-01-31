@@ -17,6 +17,7 @@ The newest version is `v0.1.0`.
 Get latest version of tarball and extract it directly into `fritzing-parts` folder:
 
 ```
+$ wget https://github.com/di0x7c5/edw-fritzing-parts/releases/download/v0.1.0/edw-fritzing-parts_v0.1.0.tar.gz
 $ tar xzf edw-fritzing-parts_v0.1.0.tar.gz -C /opt/fritzing/fritzing-parts/
 ```
 
