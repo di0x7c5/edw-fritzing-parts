@@ -1,0 +1,23 @@
+.version 1
+.author di0x7c5
+.label U
+.title 4029
+.description Presettable Binary/Decade Up/Down Counter
+
+.width 11
+.height 22
+
+L - +2 4 P0
+L - +2 12 P1
+L - +2 13 P2
+L - +2 3 P3
+L o +4 5 CI
+L > +2 5 CLK
+L - +2 1 PE
+L - +2 9 B/D
+L - +2 10 U/D
+R - +2 6 Q0
+R - +2 11 Q1
+R - +2 14 Q2
+R - +2 2 Q3
+R o +4 11 CO

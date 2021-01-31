@@ -1,0 +1,17 @@
+.version 1
+.author di0x7c5
+.label Z
+.partnumber generic
+.title Connector Panel 1x5
+.description Connector Panel 1x5
+
+.width 4
+.height 12
+
+.nopinnr
+
+L - 2 1 1
+L - 4 2 2
+L - 6 3 3
+L - 8 4 4
+L - 10 5 5

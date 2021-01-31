@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='0.40in' height='1.10in' viewBox='0 0 40 110'>
+<g id='schematic'>
+<path class='other' d='M10 15 A5 5 0 0 1 10 25 A5 5 0 0 1 10 35 A5 5 0 0 1 10 45 A5 5 0 0 1 10 55 A5 5 0 0 1 10 65 A5 5 0 0 1 10 75 A5 5 0 0 1 10 85 A5 5 0 0 1 10 95' fill='none' stroke='#000000' stroke-width='1.3' stroke-linecap="square" />
+<line class='other' x1='20' y1='10' x2='20' y2='100' stroke='#000000' stroke-width='1.4' stroke-linecap='square' />
+<path class='other' d='M30 10 A5 5 0 0 0 30 20 A5 5 0 0 0 30 30 A5 5 0 0 0 30 40 A5 5 0 0 0 30 50' fill='none' stroke='#000000' stroke-width='1.3' stroke-linecap="square" />
+<path class='other' d='M30 60 A5 5 0 0 0 30 70 A5 5 0 0 0 30 80 A5 5 0 0 0 30 90 A5 5 0 0 0 30 100' fill='none' stroke='#000000' stroke-width='1.3' stroke-linecap="square" />
+<line class='pin' id='connector0pin' connectorname='0' x1='10' y1='0' x2='10' y2='15' stroke='#000000' stroke-width='0.971875' />
+<rect class='terminal' id='connector0terminal' x='10' y='0' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none' />
+<line class='pin' id='connector1pin' connectorname='1' x1='10' y1='95' x2='10' y2='110' stroke='#000000' stroke-width='0.971875' />
+<rect class='terminal' id='connector1terminal' x='10' y='110' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none' />
+<line class='pin' id='connector2pin' connectorname='2' x1='30' y1='10' x2='40' y2='10' stroke='#000000' stroke-width='0.971875' />
+<rect class='terminal' id='connector2terminal' x='40' y='10' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none' />
+<line class='pin' id='connector3pin' connectorname='3' x1='30' y1='50' x2='40' y2='50' stroke='#000000' stroke-width='0.971875' />
+<rect class='terminal' id='connector3terminal' x='40' y='50' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none' />
+<line class='pin' id='connector4pin' connectorname='4' x1='30' y1='60' x2='40' y2='60' stroke='#000000' stroke-width='0.971875' />
+<rect class='terminal' id='connector4terminal' x='40' y='60' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none' />
+<line class='pin' id='connector5pin' connectorname='5' x1='30' y1='100' x2='40' y2='100' stroke='#000000' stroke-width='0.971875' />
+<rect class='terminal' id='connector5terminal' x='40' y='100' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none' />
+<circle class='pin' id='connector6pin' connectorname='6' cx='10' cy='25' r='1' stroke='none' fill='none' />
+<rect class='terminal' id='connector6terminal' x='10' y='25' width='0.0001' height='0.0001' fill='none' stroke='none' />
+<circle class='pin' id='connector7pin' connectorname='7' cx='10' cy='35' r='1' stroke='none' fill='none' />
+<rect class='terminal' id='connector7terminal' x='10' y='35' width='0.0001' height='0.0001' fill='none' stroke='none' />
+<circle class='pin' id='connector8pin' connectorname='8' cx='10' cy='45' r='1' stroke='none' fill='none' />
+<rect class='terminal' id='connector8terminal' x='10' y='45' width='0.0001' height='0.0001' fill='none' stroke='none' />
+<circle class='pin' id='connector9pin' connectorname='9' cx='10' cy='55' r='1' stroke='none' fill='none' />
+<rect class='terminal' id='connector9terminal' x='10' y='55' width='0.0001' height='0.0001' fill='none' stroke='none' />
+<circle class='pin' id='connector10pin' connectorname='10' cx='10' cy='65' r='1' stroke='none' fill='none' />
+<rect class='terminal' id='connector10terminal' x='10' y='65' width='0.0001' height='0.0001' fill='none' stroke='none' />
+<circle class='pin' id='connector11pin' connectorname='11' cx='10' cy='75' r='1' stroke='none' fill='none' />
+<rect class='terminal' id='connector11terminal' x='10' y='75' width='0.0001' height='0.0001' fill='none' stroke='none' />
+<circle class='pin' id='connector12pin' connectorname='12' cx='10' cy='85' r='1' stroke='none' fill='none' />
+<rect class='terminal' id='connector12terminal' x='10' y='85' width='0.0001' height='0.0001' fill='none' stroke='none' />
+<circle class='pin' id='connector13pin' connectorname='13' cx='30' cy='20' r='1' stroke='none' fill='none' />
+<rect class='terminal' id='connector13terminal' x='30' y='20' width='0.0001' height='0.0001' fill='none' stroke='none' />
+<circle class='pin' id='connector14pin' connectorname='14' cx='30' cy='30' r='1' stroke='none' fill='none' />
+<rect class='terminal' id='connector14terminal' x='30' y='30' width='0.0001' height='0.0001' fill='none' stroke='none' />
+<circle class='pin' id='connector15pin' connectorname='15' cx='30' cy='40' r='1' stroke='none' fill='none' />
+<rect class='terminal' id='connector15terminal' x='30' y='40' width='0.0001' height='0.0001' fill='none' stroke='none' />
+<circle class='pin' id='connector16pin' connectorname='16' cx='30' cy='70' r='1' stroke='none' fill='none' />
+<rect class='terminal' id='connector16terminal' x='30' y='70' width='0.0001' height='0.0001' fill='none' stroke='none' />
+<circle class='pin' id='connector17pin' connectorname='17' cx='30' cy='80' r='1' stroke='none' fill='none' />
+<rect class='terminal' id='connector17terminal' x='30' y='80' width='0.0001' height='0.0001' fill='none' stroke='none' />
+<circle class='pin' id='connector18pin' connectorname='18' cx='30' cy='90' r='1' stroke='none' fill='none' />
+<rect class='terminal' id='connector18terminal' x='30' y='90' width='0.0001' height='0.0001' fill='none' stroke='none' />
+</g>
+</svg>

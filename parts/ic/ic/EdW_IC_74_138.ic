@@ -1,0 +1,25 @@
+.version 1
+.author di0x7c5
+.label U
+.title 74LS138
+.description 3-Line to 8-Line Decoder/Demultiplexer
+
+.width 11
+.height 18
+
+R - 2 15 Y0
+R - 4 14 Y1
+R - 6 13 Y2
+R - 8 12 Y3
+R - 10 11 Y4
+R - 12 10 Y5
+R - 14 9 Y6
+R - 16 7 Y7
+T - 6 20 VCC
+B - 6 8 GND
+L - 2 1 A
+L - 4 2 B
+L - 6 3 C
+L - 12 6 G1
+L o 14 4 G2A
+L o 16 5 G2B

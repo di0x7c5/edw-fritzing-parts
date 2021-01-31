@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='0.30in' height='0.30in' viewBox='0 0 30 30'>
+<g id='schematic'>
+<line class='pin' id='connector0pin' connectorname='0' x1='10' y1='0' x2='10' y2='7' stroke='#000000' stroke-width='0.971875' />
+<rect class='terminal' id='connector0terminal' x='10' y='0' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none' />
+<line class='pin' id='connector1pin' connectorname='1' x1='10' y1='22' x2='10' y2='30' stroke='#000000' stroke-width='0.971875' />
+<rect class='terminal' id='connector1terminal' x='10' y='30' width='0.0001' height='0.0001' stroke='none' stroke-width='0' fill='none' />
+<path class='other' d='M2,7 L18,7 L10,22.5 Z' fill='#fee103' stroke='#fee103' stroke-width='0.3' />
+<line class='other' x1='2' y1='22' x2='18' y2='22' stroke='#fee103' stroke-width='1.6' stroke-linecap="square" />
+<line class='other' x1='19.6' y1='9.9' x2='23.4' y2='13.1' stroke='#fee103' stroke-width='1.2' />
+<path class='other' d='M22.5,14.2 L24.4,11.9 L27.3,16.3 Z' fill='#fee103' stroke='#fee103' stroke-width='0.2' />
+<line class='other' x1='19.6' y1='16.6' x2='23.4' y2='19.8' stroke='#fee103' stroke-width='1.2' />
+<path class='other' d='M22.5,20.9 L24.4,18.6 L27.3,23 Z' fill='#fee103' stroke='#fee103' stroke-width='0.2' />
+</g>
+</svg>

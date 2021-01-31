@@ -1,0 +1,28 @@
+.version 1
+.author di0x7c5
+.label U
+.title 74LS175
+.description Quad D-Type Flip-Flops with Clear
+
+.width 10
+.height 20
+
+T - 5 16 VCC
+B - 5 8 GND
+
+L - +3 4 D1
+L - +2 5 D2
+L - +2 12 D3
+L - +2 13 D4
+
+L > +6 9 CLK
+L o +2 1 CLR
+
+R - +3 2 Q1
+R o +2 3 Q1
+R - +2 7 Q2
+R o +2 6 Q2
+R - +2 10 Q3
+R o +2 11 Q3
+R - +2 15 Q4
+R o +2 14 Q4

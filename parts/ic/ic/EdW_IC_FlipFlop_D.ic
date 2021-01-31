@@ -1,0 +1,17 @@
+.version 1
+.author di0x7c5
+.label U
+.title D Flip-Flop
+.partnumber generic
+.description D Flip-Flop
+.nopinnr
+
+.height 10
+.width 10
+
+L - 2 1 D
+L > 5 2 CLK
+T - 5 3 SET
+B - 5 4 RST
+R - 2 5 Q
+R o 8 6 Q

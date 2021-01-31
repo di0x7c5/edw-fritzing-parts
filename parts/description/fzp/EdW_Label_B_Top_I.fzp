@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3" moduleId="EdW_Label_B_Top_I_Id">
+    <version>1</version>
+    <author>di0x7c5</author>
+    <title>Label long top</title>
+    <label>_</label>
+    <date>2020-12-01</date>
+    <tags>
+        <tag>EdW</tag>
+    </tags>
+
+    <description>Label long top</description>
+
+    <properties>
+        <property name="family">Description</property>
+    </properties>
+
+    <views>
+        <iconView>
+            <layers image="schematic/EdW_Label_B_Top_I.svg">
+                <layer layerId="icon" />
+            </layers>
+        </iconView>
+        <schematicView>
+            <layers image="schematic/EdW_Label_B_Top_I.svg">
+                <layer layerId="schematic" />
+            </layers>
+        </schematicView>
+    </views>
+
+    <connectors>
+        <connector id="connector0" name="Pin 0" type="male">
+            <description>Pin 0</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector0pin" terminalId="connector0terminal" />
+                </schematicView>
+            </views>
+        </connector>
+    </connectors>
+</module>

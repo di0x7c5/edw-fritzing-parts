@@ -1,0 +1,27 @@
+.version 1
+.author di0x7c5
+.label U
+.title 74HC595
+.description 8-bit serial-in, serial or parallel-out shift register with output latches 3-state
+
+.height 22
+.width 12
+
+T - 6 16 VCC
+B - 6 8 GND
+
+L - +3 14 SER
+L > +4 11 SRCLK
+L o +2 10 SRCLR
+L > +4 12 RCLK
+L o +6 13 OE
+
+R - +3 15 QA
+R - +2 1 QB
+R - +2 2 QC
+R - +2 3 QD
+R - +2 4 QE
+R - +2 5 QF
+R - +2 6 QG
+R - +2 7 QH
+R - +2 9 QH'

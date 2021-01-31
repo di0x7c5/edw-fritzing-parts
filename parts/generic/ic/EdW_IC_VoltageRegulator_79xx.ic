@@ -1,0 +1,14 @@
+.version 1
+.author di0x7c5
+.label U
+.partnumber 79xx
+.title Negative Voltage Regulator 79xx
+.description Generic negative voltage regulator from series 79xx
+
+.width 8
+.height 6
+.horizontaldesc
+
+L - 4 1 IN
+T - 4 2 GND
+R - 4 3 OUT

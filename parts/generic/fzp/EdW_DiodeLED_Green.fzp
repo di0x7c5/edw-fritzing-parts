@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3" moduleId="EdW_DiodeLED_Green_Id">
+    <version>1</version>
+    <author>di0x7c5</author>
+    <title>Diode LED - Green</title>
+    <label>D</label>
+    <date>2020-01-26</date>
+    <tags>
+        <tag>EdW</tag>
+    </tags>
+
+    <description>Diode LED - Green</description>
+
+    <properties>
+        <property name="family">Common</property>
+    </properties>
+
+    <views>
+        <iconView>
+            <layers image="schematic/EdW_DiodeLED_Green.svg">
+                <layer layerId="icon" />
+            </layers>
+        </iconView>
+        <schematicView>
+            <layers image="schematic/EdW_DiodeLED_Green.svg">
+                <layer layerId="schematic" />
+            </layers>
+        </schematicView>
+    </views>
+
+    <connectors>
+        <connector id="connector0" name="anode" type="male">
+            <description>Anode Pin</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector0pin" terminalId="connector0terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector1" name="cathode" type="male">
+            <description>Cathode Pin</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pin" terminalId="connector1terminal" />
+                </schematicView>
+            </views>
+        </connector>
+    </connectors>
+</module>

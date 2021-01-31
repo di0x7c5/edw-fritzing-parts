@@ -1,0 +1,27 @@
+.version 1
+.author di0x7c5
+.label U
+.title Generic 14-Pin IC
+.description Generic 14-Pin IC
+.partnumber generic
+
+.width 10
+.height 16
+
+.nopinnr
+
+L - +2 1 1
+L - +2 2 2
+L - +2 3 3
+L - +2 4 4
+L - +2 5 5
+L - +2 6 6
+L - +2 7 7
+
+R - +2 8 14
+R - +2 9 13
+R - +2 10 12
+R - +2 11 11
+R - +2 12 10
+R - +2 13 9
+R - +2 14 8

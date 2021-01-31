@@ -1,0 +1,14 @@
+.version 1
+.author di0x7c5
+.label U
+.partnumber LM317
+.title Voltage Regulator with ADJ like LM317
+.description Generic voltage regulator with ADJ, like LM317
+
+.width 8
+.height 6
+.horizontaldesc
+
+L - 2 3 IN
+B - 4 1 ADJ
+R - 2 2 OUT

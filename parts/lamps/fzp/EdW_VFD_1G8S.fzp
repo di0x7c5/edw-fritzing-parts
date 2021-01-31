@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3" moduleId="EdW_VFD_1G8S_Id">
+    <version>1</version>
+    <author>di0x7c5</author>
+    <title>Single VFD Tube, 8 segments</title>
+    <label>VT</label>
+    <date>2020-10-14</date>
+    <tags>
+        <tag>EdW Parts</tag>
+        <tag>Electron Lamp</tag>
+    </tags>
+
+    <properties>
+        <property name="family">Electron Lamp</property>
+    </properties>
+
+    <description>Single VFD Tube, 8 segments</description>
+
+    <views>
+        <iconView>
+            <layers image="schematic/EdW_VFD_1G8S.svg">
+                <layer layerId="icon" />
+            </layers>
+        </iconView>
+        <schematicView>
+            <layers image="schematic/EdW_VFD_1G8S.svg">
+                <layer layerId="schematic" />
+            </layers>
+        </schematicView>
+    </views>
+
+    <connectors>
+        <connector id="connector0" name="0" type="male">
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector0pin" terminalId="connector0terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector1" name="1" type="male">
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pin" terminalId="connector1terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector2" name="2" type="male">
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector2pin" terminalId="connector2terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector3" name="3" type="male">
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector3pin" terminalId="connector3terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector4" name="4" type="male">
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector4pin" terminalId="connector4terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector5" name="5" type="male">
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector5pin" terminalId="connector5terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector6" name="6" type="male">
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector6pin" terminalId="connector6terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector7" name="7" type="male">
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector7pin" terminalId="connector7terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector8" name="8" type="male">
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector8pin" terminalId="connector8terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector9" name="9" type="male">
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector9pin" terminalId="connector9terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector10" name="10" type="male">
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector10pin" terminalId="connector10terminal" />
+                </schematicView>
+            </views>
+        </connector>
+    </connectors>
+</module>

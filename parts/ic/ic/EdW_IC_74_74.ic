@@ -1,0 +1,23 @@
+.version 1
+.author di0x7c5
+.label U
+.title 74LS74
+.description Dual D positive edge triggered flip-flop, asynchronous preset and clear
+
+.width 11
+.height 22
+
+T - 6 14 VCC
+B - 6 7 GND
+L o +3 4 1SET
+L > +2 3 1CLK
+L - +2 2 1D
+L o +2 1 1CLR
+L o +3 10 2SET
+L > +2 11 2CLK
+L - +2 12 2D
+L o +2 13 2CLR
+R - +4 5 1Q
+R o +4 6 1Q
+R - +5 9 2Q
+R o +4 8 2Q

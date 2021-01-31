@@ -1,0 +1,27 @@
+.version 1
+.author di0x7c5
+.label U
+.title PCF8574
+.description Remote 8-bit I/O expander for I2C-bus
+
+.width 10
+.height 18
+
+t - 5 16 VCC
+b - 5 8 GND
+
+L o +2 13 INT
+L - +4 1 A0
+L - +2 2 A1
+L - +2 3 A2
+L - +4 14 SCL
+L - +2 15 SDA
+
+R - +2 4 P0
+R - +2 5 P1
+R - +2 6 P2
+R - +2 7 P3
+R - +2 9 P4
+R - +2 10 P5
+R - +2 11 P6
+R - +2 12 P7

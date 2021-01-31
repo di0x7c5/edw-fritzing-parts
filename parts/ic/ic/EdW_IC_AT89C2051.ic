@@ -1,0 +1,31 @@
+.version 1
+.author di0x7c5
+.label U
+.title AT89C2051
+.description 8-bit Microcontroller with 2K Bytes Flash
+.tint BLUE
+
+.width 16
+.height 22
+
+L - +2 1 RST/VPP
+L - +2 2 P3.0 (RXD)
+L - +2 3 P3.1 (TXD)
+L - +2 4 XTAL2
+L - +2 5 XTAL1
+L - +2 6 P3.2 (INT0)
+L - +2 7 P3.3 (INT1)
+L - +2 8 P3.4 (T0)
+L - +2 9 P3.5 (T1)
+L - +2 10 GND
+
+R - +2 20 VCC
+R - +2 19 P1.7
+R - +2 18 P1.6
+R - +2 17 P1.5
+R - +2 16 P1.4
+R - +2 15 P1.3
+R - +2 14 P1.2
+R - +2 13 (AIN1) P1.1
+R - +2 12 (AIN0) P1.1
+R - +2 11 P3.7

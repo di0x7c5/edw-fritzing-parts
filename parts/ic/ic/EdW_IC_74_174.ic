@@ -1,0 +1,28 @@
+.version 1
+.author di0x7c5
+.label U
+.title 74LS174
+.description Hex D-Type Flip-Flops with Clear
+
+.width 11
+.height 21
+
+T - 6 16 VCC
+B - 6 8 GND
+
+L - +3 3 D1
+L - +2 4 D2
+L - +2 6 D3
+L - +2 11 D4
+L - +2 13 D5
+L - +2 14 D6
+
+R - +3 2 Q1
+R - +2 5 Q2
+R - +2 7 Q3
+R - +2 10 Q4
+R - +2 12 Q5
+R - +2 15 Q6
+
+L > +3 9 CLK
+L o +2 1 CLR

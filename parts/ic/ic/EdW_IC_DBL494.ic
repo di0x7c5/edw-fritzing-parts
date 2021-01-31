@@ -1,0 +1,25 @@
+.version 1
+.author di0x7c5
+.label U
+.title DBL494
+.description Pulse Width Modulation
+
+.width 10
+.height 22
+
+t - 5 12 VCC
+b - 5 7 GND
+L - +2 4 DT
+L - +2 3 FB
+L - +4 6 RT
+L - +2 5 CT
+L - +2 1 EA1+
+L - +2 2 EA1-
+L - +2 16 EA2+
+L - +2 15 EA2-
+L - +2 13 OC
+R - +2 8 C1
+R - +2 9 E1
+R - +4 11 C2
+R - +2 10 E2
+R - +8 14 REF

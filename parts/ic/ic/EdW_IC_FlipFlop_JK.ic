@@ -1,0 +1,18 @@
+.version 1
+.author di0x7c5
+.label U
+.title JK Flip-Flop
+.partnumber generic
+.description JK Flip-Flop
+.nopinnr
+
+.height 10
+.width 10
+
+L - 2 1 J
+L > 5 2 CLK
+L - 8 3 K
+T - 5 4 SET
+B - 5 5 RST
+R - 2 6 Q
+R o 8 7 Q

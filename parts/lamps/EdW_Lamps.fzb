@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3" icon="EdW_Lamps_icon.svg">
+    <title>EdW Lamps</title>
+    <instances>
+        <instance moduleIdRef="__spacer__" path="Duodiodes">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+        
+        <instance moduleIdRef="EdW_ElectronLamp_Duodiode_Var01_Id" path="EdW_ElectronLamp_Duodiode_Var01.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+        
+        <instance moduleIdRef="__spacer__" path="Triodes">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+        
+        <instance moduleIdRef="EdW_ElectronLamp_Triode_Var01_Id" path="EdW_ElectronLamp_Triode_Var01.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+        
+        <instance moduleIdRef="EdW_ElectronLamp_Triode_Var02_Id" path="EdW_ElectronLamp_Triode_Var02.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+        
+        <instance moduleIdRef="EdW_ElectronLamp_Triode_Var03_Id" path="EdW_ElectronLamp_Triode_Var03.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+        
+        <instance moduleIdRef="EdW_ElectronLamp_Triode_Var04_Id" path="EdW_ElectronLamp_Triode_Var04.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+        
+        <instance moduleIdRef="EdW_ElectronLamp_Triode_Var05_Id" path="EdW_ElectronLamp_Triode_Var05.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+        
+        <instance moduleIdRef="EdW_ElectronLamp_Triode_Var06_Id" path="EdW_ElectronLamp_Triode_Var06.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+        
+        <instance moduleIdRef="EdW_ElectronLamp_Triode_Var07_Id" path="EdW_ElectronLamp_Triode_Var07.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+        
+        <instance moduleIdRef="EdW_ElectronLamp_Triode_Var08_Id" path="EdW_ElectronLamp_Triode_Var08.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+        
+        <instance moduleIdRef="EdW_ElectronLamp_Triode_Var09_Id" path="EdW_ElectronLamp_Triode_Var09.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+        
+        <instance moduleIdRef="EdW_ElectronLamp_Triode_Var10_Id" path="EdW_ElectronLamp_Triode_Var10.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+        
+        <instance moduleIdRef="EdW_ElectronLamp_Triode_Var11_Id" path="EdW_ElectronLamp_Triode_Var11.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+        
+        <instance moduleIdRef="EdW_ElectronLamp_Triode_Var12_Id" path="EdW_ElectronLamp_Triode_Var12.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+        
+        <instance moduleIdRef="EdW_ElectronLamp_Triode_Var13_Id" path="EdW_ElectronLamp_Triode_Var13.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+        
+        <instance moduleIdRef="EdW_ElectronLamp_Triode_Var14_Id" path="EdW_ElectronLamp_Triode_Var14.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+        
+        <instance moduleIdRef="EdW_ElectronLamp_Triode_Var15_Id" path="EdW_ElectronLamp_Triode_Var15.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+        
+        <instance moduleIdRef="EdW_ElectronLamp_Triode_Var16_Id" path="EdW_ElectronLamp_Triode_Var16.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_ElectronLamp_Triode_Var17_Id" path="EdW_ElectronLamp_Triode_Var17.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_ElectronLamp_Triode_Var18_Id" path="EdW_ElectronLamp_Triode_Var18.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="__spacer__" path="Tetrodes">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_ElectronLamp_Tetrode_Var01_Id" path="EdW_ElectronLamp_Tetrode_Var01.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+        
+        <instance moduleIdRef="EdW_ElectronLamp_Tetrode_Var02_Id" path="EdW_ElectronLamp_Tetrode_Var02.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+        
+        <instance moduleIdRef="EdW_ElectronLamp_Tetrode_Var03_Id" path="EdW_ElectronLamp_Tetrode_Var03.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+        
+        <instance moduleIdRef="EdW_ElectronLamp_Tetrode_Var04_Id" path="EdW_ElectronLamp_Tetrode_Var04.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+        
+        <instance moduleIdRef="__spacer__" path="Pentodes">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+        
+        <instance moduleIdRef="EdW_ElectronLamp_Pentode_Var01_Id" path="EdW_ElectronLamp_Pentode_Var01.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+        
+        <instance moduleIdRef="EdW_ElectronLamp_Pentode_Var02_Id" path="EdW_ElectronLamp_Pentode_Var02.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+        
+        <instance moduleIdRef="EdW_ElectronLamp_Pentode_Var03_Id" path="EdW_ElectronLamp_Pentode_Var03.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+        
+        <instance moduleIdRef="EdW_ElectronLamp_Pentode_Var04_Id" path="EdW_ElectronLamp_Pentode_Var04.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+        
+        <instance moduleIdRef="EdW_ElectronLamp_Pentode_Var05_Id" path="EdW_ElectronLamp_Pentode_Var05.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+        
+        <instance moduleIdRef="EdW_ElectronLamp_Pentode_Var06_Id" path="EdW_ElectronLamp_Pentode_Var06.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+        
+        <instance moduleIdRef="EdW_ElectronLamp_Pentode_Var07_Id" path="EdW_ElectronLamp_Pentode_Var07.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+        
+        <instance moduleIdRef="EdW_ElectronLamp_Pentode_Var08_Id" path="EdW_ElectronLamp_Pentode_Var08.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="__spacer__" path="VFD">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_VFD_1G8S_Id" path="EdW_VFD_1G8S.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+    </instances>
+</module>

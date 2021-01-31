@@ -1,0 +1,17 @@
+.version 1
+.author di0x7c5
+.label U
+.title PCF8583
+.description Clock/calendar with 240 x 8-bit RAM
+
+.width 11
+.height 10
+
+L - 2 1 OSCI
+L - 4 2 OSCO
+L - 6 3 A0
+L - 8 4 GND
+R - 2 8 VCC
+R - 4 7 INT
+R - 6 6 SCL
+R - 8 5 SDA

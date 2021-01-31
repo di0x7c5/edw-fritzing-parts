@@ -1,0 +1,29 @@
+.version 1
+.author di0x7c5
+.label U
+.title 74LS151
+.description 8-line to 1-line data selector/multiplexer
+
+.width 11
+.height 28
+
+L - 2 11 A
+L - 4 10 B
+L - 6 9 C
+
+L - 9 4 D0
+L - 11 3 D1
+L - 13 2 D2
+L - 15 1 D3
+L - 17 15 D4
+L - 19 14 D5
+L - 21 13 D6
+L - 23 12 D7
+
+L o 26 7 EN
+
+R - 12 5 Y
+R - 14 6 W
+
+T - 6 16 VCC
+B - 6 8 GND

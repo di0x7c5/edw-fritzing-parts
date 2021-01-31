@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3" moduleId="EdW_Battery_C1_Var2_Id">
+    <version>1</version>
+    <author>di0x7c5</author>
+    <title>Battery Cell</title>
+    <label>BT</label>
+    <date>2020-03-21</date>
+    <tags>
+        <tag>EdW</tag>
+    </tags>
+
+    <description>One battery cell with black plus symbol</description>
+
+    <properties>
+        <property name="family">Common</property>
+    </properties>
+ 
+    <views>
+        <iconView>
+            <layers image="schematic/EdW_Battery_C1_Var2.svg">
+                <layer layerId="icon" />
+            </layers>
+        </iconView>
+        <schematicView>
+            <layers image="schematic/EdW_Battery_C1_Var2.svg">
+                <layer layerId="schematic" />
+            </layers>
+        </schematicView>
+    </views>
+
+    <connectors>
+        <connector id="connector0" name="0" type="male">
+            <description>Pin 0</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector0pin" terminalId="connector0terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector1" name="1" type="male">
+            <description>Pin 1</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pin" terminalId="connector1terminal" />
+                </schematicView>
+            </views>
+        </connector>
+    </connectors>
+</module>
