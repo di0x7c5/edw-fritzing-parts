@@ -1,0 +1,21 @@
+.version 1
+.author di0x7c5
+.label U
+.title Generic 8-Pin IC
+.description Generic 8-Pin IC
+.partnumber generic
+
+.width 10
+.height 10
+
+.nopinnr
+
+L - +2 1 1
+L - +2 2 2
+L - +2 3 3
+L - +2 4 4
+
+R - +2 5 8
+R - +2 6 7
+R - +2 7 6
+R - +2 8 5

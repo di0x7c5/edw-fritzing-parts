@@ -1,0 +1,27 @@
+.version 1
+.author di0x7c5
+.label U
+.title ULN2804
+.description Eight Darlington Arrays
+
+.width 11
+.height 20
+
+L - 2 1 IN1
+L - 4 2 IN2
+L - 6 3 IN3
+L - 8 4 IN4
+L - 10 5 IN5
+L - 12 6 IN6
+L - 14 7 IN7
+L - 16 8 IN8
+L - 18 9 GND
+R - 2 18 OUT1
+R - 4 17 OUT2
+R - 6 16 OUT3
+R - 8 15 OUT4
+R - 10 14 OUT5
+R - 12 13 OUT6
+R - 14 12 OUT7
+R - 16 11 OUT8
+R - 18 10 COM

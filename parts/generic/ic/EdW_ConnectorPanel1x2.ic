@@ -1,0 +1,14 @@
+.version 1
+.author di0x7c5
+.label Z
+.partnumber generic
+.title Connector Panel 1x2
+.description Connector Panel 1x2
+
+.width 4
+.height 6
+
+.nopinnr
+
+L - 2 1 1
+L - 4 2 2

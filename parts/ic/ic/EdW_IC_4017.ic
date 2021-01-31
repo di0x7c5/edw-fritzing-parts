@@ -1,0 +1,25 @@
+.version 1
+.author di0x7c5
+.label U
+.title 4017
+.description CMOS Decade Counter with 10 Decoded Outputs
+
+.width 11
+.height 22
+
+L > 2 14 CLK
+L o 8 13 ENA
+L - 14 15 RST
+R - 2 3 Q0
+R - 4 2 Q1
+R - 6 4 Q2
+R - 8 7 Q3
+R - 10 10 Q4
+R - 12 1 Q5
+R - 14 5 Q6
+R - 16 6 Q7
+R - 18 9 Q8
+R - 20 11 Q9
+L - 20 12 CO
+T - 6 16 VCC
+B - 6 8 GND

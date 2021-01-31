@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3" moduleId="EdW_ElectronLamp_Pentode_Var07_Id">
+    <version>1</version>
+    <author>Dariusz Iwanoczko</author>
+    <title>Pentode</title>
+    <label>VT</label>
+    <date>2019-10-26</date>
+    <tags>
+        <tag>EdW Parts</tag>
+        <tag>Electron Lamp</tag>
+    </tags>
+
+    <properties>
+        <property name="family">Electron Lamp</property>
+    </properties>
+
+    <description>Pentode</description>
+
+    <views>
+        <iconView>
+            <layers image="schematic/EdW_ElectronLamp_Pentode_Var07.svg">
+                <layer layerId="icon" />
+            </layers>
+        </iconView>
+        <schematicView>
+            <layers image="schematic/EdW_ElectronLamp_Pentode_Var07.svg">
+                <layer layerId="schematic" />
+            </layers>
+        </schematicView>
+    </views>
+
+    <connectors>
+        <connector type="male" id="connector0" name="0">
+            <views>
+                <schematicView>
+                    <p svgId="connector0pin" layer="schematic" terminalId="connector0terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector type="male" id="connector1" name="1">
+            <views>
+                <schematicView>
+                    <p svgId="connector1pin" layer="schematic" terminalId="connector1terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector type="male" id="connector2" name="2">
+            <views>
+                <schematicView>
+                    <p svgId="connector2pin" layer="schematic" terminalId="connector2terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector type="male" id="connector3" name="3">
+            <views>
+                <schematicView>
+                    <p svgId="connector3pin" layer="schematic" terminalId="connector3terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector type="male" id="connector4" name="4">
+            <views>
+                <schematicView>
+                    <p svgId="connector4pin" layer="schematic" terminalId="connector4terminal" />
+                </schematicView>
+            </views>
+        </connector>
+    </connectors>
+</module>

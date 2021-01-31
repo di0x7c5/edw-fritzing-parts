@@ -1,0 +1,30 @@
+.version 1
+.author di0x7c5
+.label U
+.title 74LS373
+.description Octal transparent latch
+
+.width 11
+.height 24
+
+T - 6 20 VCC
+B - 6 10 GND
+
+L - +2 3 1D
+L - +2 4 2D
+L - +2 7 3D
+L - +2 8 4D
+L - +2 13 5D
+L - +2 14 6D
+L - +2 17 7D
+L - +2 18 8D
+L > +4 11 CLK
+L o +2 1 OC
+R - +2 2 1Q
+R - +2 5 2Q
+R - +2 6 3Q
+R - +2 9 4Q
+R - +2 12 5Q
+R - +2 15 6Q
+R - +2 16 7Q
+R - +2 19 8Q

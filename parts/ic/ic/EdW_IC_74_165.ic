@@ -1,0 +1,28 @@
+.version 1
+.author di0x7c5
+.label U
+.title 74HC165
+.description 8-Bit Parallel-Load Shift Registers
+
+.width 10
+.height 30
+
+T - 5 16 VCC
+B - 5 8 GND
+
+R - 3 9 QH
+R o 9 7 QH
+
+L - +3 10 SER
+L - +2 11 A
+L - +2 12 B
+L - +2 13 C
+L - +2 14 D
+L - +2 3 E
+L - +2 4 F
+L - +2 5 G
+L - +2 6 H
+
+L > +4 15 CLK INH
+L > +2 2 CLK
+L o +2 1 SH/LD

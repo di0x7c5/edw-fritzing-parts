@@ -1,0 +1,50 @@
+.version 1
+.author di0x7c5
+.label U
+.title Raspberry Pi 4 Model B
+.description Raspberry Pi 4 Model B
+
+.width 26
+.height 42
+
+L - +2 1 3V3
+L - +2 3 GPIO 2 (SDA)
+L - +2 5 GPIO 3 (SCL)
+L - +2 7 GPIO 4 (GPCLK0)
+L - +2 9 GND
+L - +2 11 GPIO 17
+L - +2 13 GPIO 27
+L - +2 15 GPIO 22
+L - +2 17 3V3
+L - +2 19 GPIO 10 (MOSI)
+L - +2 21 GPIO 9 (MISO)
+L - +2 23 GPIO 11 (SCLK)
+L - +2 25 GND
+L - +2 27 GPIO 0 (ID_SD)
+L - +2 29 GPIO 5
+L - +2 31 GPIO 6
+L - +2 33 GPIO 13 (PWM 1)
+L - +2 35 GPIO 19 (PCM_FS)
+L - +2 37 GPIO 26
+L - +2 39 GND
+
+R - +2 2 5V
+R - +2 4 5V
+R - +2 6 GND
+R - +2 8 GPIO 14 (TXD)
+R - +2 10 GPIO 15 (RXD)
+R - +2 12 GPIO 18 (PCM_CLK)
+R - +2 14 GND
+R - +2 16 GPIO 23
+R - +2 18 GPIO 24
+R - +2 20 GND
+R - +2 22 GPIO 25
+R - +2 24 GPIO 8 (CE0)
+R - +2 26 GPIO 7 (CE1)
+R - +2 28 GPIO 1 (ID_SC)
+R - +2 30 GND
+R - +2 32 GPIO 12 (PWM0)
+R - +2 34 GND
+R - +2 36 GPIO 16
+R - +2 38 GPIO 20 (PCM_DIN)
+R - +2 40 GPIO 21 (PCM_DOUT)

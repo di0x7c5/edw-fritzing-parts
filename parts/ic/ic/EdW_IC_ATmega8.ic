@@ -1,0 +1,39 @@
+.version 1
+.author di0x7c5
+.label U
+.title ATmega8
+.description 8-bit uC Atmel with 8KBytes
+
+.height 30
+.width 22
+.tint BLUE
+
+L - 2 1 PC6 (RESET)
+L - 4 2 PD0 (RxD)
+L - 6 3 PD1 (TxD)
+L - 8 4 PD2 (INT0)
+L - 10 5 PD3 (INT1)
+L - 12 6 PD4 (XCK/T0)
+L - 14 7 VCC
+L - 16 8 GND
+L - 18 9 PB6 (XTAL1/TOSC1)
+L - 20 10 PB7 (XTAL2/TOSC2)
+L - 22 11 PD5 (T1)
+L - 24 12 PD6 (AIN0)
+L - 26 13 PD7 (AIN1)
+L - 28 14 PB0 (ICP1)
+
+R - 2 28 (ADC5/SCL) PC5
+R - 4 27 (ADC4/SDA) PC4
+R - 6 26 (ADC3) PC3
+R - 8 25 (ADC2) PC2
+R - 10 24 (ADC1) PC1
+R - 12 23 (ADC0) PC0
+R - 14 22 GND
+R - 16 21 AREF
+R - 18 20 AVCC
+R - 20 19 (SCK) PB5
+R - 22 18 (MISO) PB4
+R - 24 17 (MOSI/OC2) PB3
+R - 26 16 (SS/OC1B) PB2
+R - 28 15 (OC1A) PB1

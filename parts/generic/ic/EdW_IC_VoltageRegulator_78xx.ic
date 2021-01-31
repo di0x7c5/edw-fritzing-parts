@@ -1,0 +1,14 @@
+.version 1
+.author di0x7c5
+.label U
+.partnumber 78xx
+.title Positive Voltage Regulator 78xx
+.description Generic positive voltage regulator from series 78xx
+
+.width 8
+.height 6
+.horizontaldesc
+
+L - 2 1 IN
+B - 4 2 GND
+R - 2 3 OUT

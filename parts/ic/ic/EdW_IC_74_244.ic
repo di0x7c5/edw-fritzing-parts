@@ -1,0 +1,30 @@
+.version 1
+.author di0x7c5
+.label U
+.title 74LS244
+.description Octal buffer, non-inverting outputs
+
+.width 11
+.height 26
+
+T - 6 20 VCC
+B - 6 10 GND
+
+L o +3 1 1G
+L - +2 2 1A1
+L - +2 4 1A2
+L - +2 6 1A3
+L - +2 8 1A4
+R - +5 18 1Y1
+R - +2 16 1Y2
+R - +2 14 1Y3
+R - +2 12 1Y4
+L o +4 19 2G
+L - +2 11 2A1
+L - +2 13 2A2
+L - +2 15 2A3
+L - +2 17 2A4
+R - +6 9 2Y1
+R - +2 7 2Y2
+R - +2 5 2Y3
+R - +2 3 2Y4

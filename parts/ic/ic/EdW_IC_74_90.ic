@@ -1,0 +1,21 @@
+.version 1
+.author di0x7c5
+.label U
+.title 74LS90
+.description Decade counter (separate divide-by-2 and divide-by-5 sections)
+
+.width 11
+.height 18
+
+T - 6 5 VCC
+B - 6 10 GND
+L - 3 2 R0(1)
+L - 5 3 R0(2)
+L - 8 6 R9(1)
+L - 10 7 R9(2)
+L > 13 14 CKA
+L > 15 1 CKB
+R - 3 12 OA
+R - 5 9 OB
+R - 7 8 OC
+R - 9 11 OD

@@ -1,0 +1,18 @@
+.version 1
+.author di0x7c5
+.label U
+.title NE555
+.description 555 timer IC
+
+.width 12
+.height 11
+.horizontaldesc
+
+T o 4 4 RST 
+L - 4 2 TR
+L - 8 5 CV
+B - 6 1 GND
+R - 4 3 Q
+R - 6 7 DIS
+R - 8 6 THR
+T - 8 8 VCC

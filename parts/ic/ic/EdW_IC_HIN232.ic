@@ -1,0 +1,26 @@
+.version 1
+.author di0x7c5
+.label U
+.title HIN232
+.description +5V Powered RS-232 Transmitter/Receiver
+
+.width 12
+.height 18
+
+L - +2 1 C1+
+L - +2 2 V+
+L - +2 3 C1-
+L - +2 4 C2+
+L - +2 5 C2-
+L - +2 6 V-
+L - +2 7 T2 OUT
+L - +2 8 R2 IN
+
+R - +2 16 VCC
+R - +2 15 GND
+R - +2 14 T1 OUT
+R - +2 13 R1 IN
+R - +2 12 R1 OUT
+R - +2 11 T1 IN
+R - +2 10 T2 IN
+R - +2 9 R2 OUT

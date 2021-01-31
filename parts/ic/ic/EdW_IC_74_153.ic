@@ -1,0 +1,31 @@
+.version 1
+.author di0x7c5
+.label U
+.title 74LS153
+.description Dual 1-of-4 Line Data Selectors/Multiplexers
+
+.width 11
+.height 30
+
+T - 6 16 VCC
+B - 6 8 GND
+
+R - 8 7 Y1
+R - 22 9 Y2
+
+L - 2 1 G1
+
+L - 5 6 1C0
+L - 7 5 1C1
+L - 9 4 1C2
+L - 11 3 1C3
+
+L - 14 2 B
+L - 16 14 A
+
+L - 19 10 2C0
+L - 21 11 2C1
+L - 23 12 2C2
+L - 25 13 2C3
+
+L - 28 15 G2

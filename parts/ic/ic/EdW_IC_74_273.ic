@@ -1,0 +1,30 @@
+.version 1
+.author di0x7c5
+.label U
+.title 74LS273
+.description Octal D-Type Flip-Flop with Clear
+
+.height 24
+.width 11
+
+T - 6 20 VCC
+B - 6 10 GND
+
+L - 2 3 1D
+L - 4 4 2D
+L - 6 7 3D
+L - 8 8 4D
+L - 10 13 5D
+L - 12 14 6D
+L - 14 17 7D
+L - 16 18 8D
+L > 20 11 CLK
+L o 22 1 CLR
+R - 2 2 1Q
+R - 4 5 2Q
+R - 6 6 3Q
+R - 8 9 4Q
+R - 10 12 5Q
+R - 12 15 6Q
+R - 14 16 7Q
+R - 16 19 8Q
