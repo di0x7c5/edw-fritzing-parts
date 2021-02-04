@@ -6,7 +6,6 @@
 
 .width 17
 .height 47
-.horizontaldesc
 .tint BLUE
 
 L - 2 8 PB7(SCK)
