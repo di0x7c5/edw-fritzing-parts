@@ -261,11 +261,15 @@ parse_command_line $@
 
 # Prepare the output folder for FZP
 [ -z "$OUT_FZP_PATH" ] && OUT_FZP_PATH=$OUT/fzp
-[ -d $OUT_FZP_PATH ] || mkdir -p $OUT_FZP_PATH
+if [ -n "$FLAG_GEN_FZP" ]; then
+    [ -d $OUT_FZP_PATH ] || mkdir -p $OUT_FZP_PATH
+fi
 
 # Prepare the output folder for SVG
 [ -z "$OUT_SVG_PATH" ] && OUT_SVG_PATH=$OUT/svg
-[ -d $OUT_SVG_PATH ] || mkdir -p $OUT_SVG_PATH
+if [ -n "$FLAG_GEN_SVG" ]; then
+    [ -d $OUT_SVG_PATH ] || mkdir -p $OUT_SVG_PATH
+fi
 
 # Basename in this script is the file name without extension
 IC_FILE_BASENAME=$(echo $(basename $IC_FILE_PATH) | sed 's/\.ic$//g')
