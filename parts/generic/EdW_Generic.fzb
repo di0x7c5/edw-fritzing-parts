@@ -26,6 +26,14 @@
             </views>
         </instance>
 
+        <instance moduleIdRef="EdW_Bulb_Id" path="EdW_Bulb.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
         <instance moduleIdRef="EdW_Label_70_mils_Id" path="EdW_Label_70_mils.fzp">
             <views>
                 <iconView layer="icon">
