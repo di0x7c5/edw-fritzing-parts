@@ -2,7 +2,31 @@
 <module fritzingVersion="0.9.3" icon="EdW_Description_icon.svg">
     <title>EdW Description</title>
     <instances>
-    <instance moduleIdRef="__spacer__" path="Arrows">
+        <instance moduleIdRef="__spacer__" path="Polarity">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_PlusInCircle_Red_Id" path="EdW_PlusInCircle_Red.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_MinusInCircle_Blue_Id" path="EdW_MinusInCircle_Blue.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="__spacer__" path="Arrows">
             <views>
                 <iconView layer="icon">
                     <geometry z="-1" x="-1" y="-1"></geometry>
