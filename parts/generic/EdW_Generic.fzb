@@ -186,6 +186,78 @@
             </views>
         </instance>
 
+        <instance moduleIdRef="__spacer__" path="Meters">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_Measure_Voltmeter_Id" path="EdW_Measure_Voltmeter.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_Measure_Ammeter_Id" path="EdW_Measure_Ammeter.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_Measure_Millivoltmeter_Id" path="EdW_Measure_Millivoltmeter.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_Measure_Milliammeter_Id" path="EdW_Measure_Milliammeter.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_Measure_Voltmeter_AC_Id" path="EdW_Measure_Voltmeter_AC.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_Measure_Ammeter_AC_Id" path="EdW_Measure_Ammeter_AC.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_Measure_Voltmeter_DC_Id" path="EdW_Measure_Voltmeter_DC.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_Measure_Ammeter_DC_Id" path="EdW_Measure_Ammeter_DC.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
         <instance moduleIdRef="__spacer__" path="Connector Panels">
             <views>
                 <iconView layer="icon">
