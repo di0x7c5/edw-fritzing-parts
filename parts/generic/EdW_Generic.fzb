@@ -2,7 +2,7 @@
 <module fritzingVersion="0.9.3" icon="EdW_Generic_icon.svg">
     <title>EdW Parts</title>
     <instances>
-        <instance moduleIdRef="__spacer__" path="Connectors">
+        <instance moduleIdRef="__spacer__" path="Generic">
             <views>
                 <iconView layer="icon">
                     <geometry z="-1" x="-1" y="-1"></geometry>
@@ -11,6 +11,22 @@
         </instance>
 
         <instance moduleIdRef="EdW_ConnectionPoint_Id" path="EdW_ConnectionPoint.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_Ground_Id" path="EdW_Ground.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="__spacer__" path="Terminals">
             <views>
                 <iconView layer="icon">
                     <geometry z="-1" x="-1" y="-1"></geometry>
@@ -106,7 +122,55 @@
             </views>
         </instance>
 
-        <instance moduleIdRef="EdW_Ground_Id" path="EdW_Ground.fzp">
+        <instance moduleIdRef="__spacer__" path="RCA Connectors">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_Connector_RCA_Id" path="EdW_Connector_RCA.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_Connector_RCA_White_Id" path="EdW_Connector_RCA_White.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_Connector_RCA_Red_Id" path="EdW_Connector_RCA_Red.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_Connector_RCA_Green_Id" path="EdW_Connector_RCA_Green.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_Connector_RCA_Blue_Id" path="EdW_Connector_RCA_Blue.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_Connector_RCA_Yellow_Id" path="EdW_Connector_RCA_Yellow.fzp">
             <views>
                 <iconView layer="icon">
                     <geometry z="-1" x="-1" y="-1"></geometry>
