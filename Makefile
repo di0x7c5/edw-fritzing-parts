@@ -34,7 +34,7 @@ build-prepare:
 build-all-parts: $(addprefix parts-,$(PARTS)) icupdate
 
 parts-%: build-prepare
-	@cp parts/$(subst parts-,,$@)/*.fzb parts/$(subst parts-,,$@)/*.svg $(BUILD)/bins/more
+	@cp parts/$(subst parts-,,$@)/*.fzb parts/$(subst parts-,,$@)/*.png $(BUILD)/bins/more
 	@cp parts/$(subst parts-,,$@)/fzp/* $(BUILD)/core
 	@cp parts/$(subst parts-,,$@)/svg/* $(BUILD)/svg/core/schematic
 
