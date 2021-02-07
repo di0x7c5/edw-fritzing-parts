@@ -1107,7 +1107,23 @@
             </views>
         </instance>
 
-        <instance moduleIdRef="__spacer__" path="Switches - Mechanical">
+        <instance moduleIdRef="__spacer__" path="Magnetic switches ">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_ReedSwitch_Id" path="EdW_ReedSwitch.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="__spacer__" path="Mechanical switches">
             <views>
                 <iconView layer="icon">
                     <geometry z="-1" x="-1" y="-1"></geometry>
@@ -1219,7 +1235,7 @@
             </views>
         </instance>
 
-        <instance moduleIdRef="__spacer__" path="Switches - Electronic">
+        <instance moduleIdRef="__spacer__" path="Electronic switches">
             <views>
                 <iconView layer="icon">
                     <geometry z="-1" x="-1" y="-1"></geometry>
