@@ -738,7 +738,23 @@
             </views>
         </instance>
 
+        <instance moduleIdRef="EdW_Transistor_MosfetN_Diode_Id" path="EdW_Transistor_MosfetN_Diode.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
         <instance moduleIdRef="EdW_Transistor_MosfetP_Id" path="EdW_Transistor_MosfetP.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_Transistor_MosfetP_Diode_Id" path="EdW_Transistor_MosfetP_Diode.fzp">
             <views>
                 <iconView layer="icon">
                     <geometry z="-1" x="-1" y="-1"></geometry>
