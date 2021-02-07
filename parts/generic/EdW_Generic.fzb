@@ -306,6 +306,22 @@
             </views>
         </instance>
 
+        <instance moduleIdRef="EdW_CurrentSource_Id" path="EdW_CurrentSource.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_CurrentSource_Regulated_Id" path="EdW_CurrentSource_Regulated.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
         <instance moduleIdRef="EdW_Fuse_Id" path="EdW_Fuse.fzp">
             <views>
                 <iconView layer="icon">
