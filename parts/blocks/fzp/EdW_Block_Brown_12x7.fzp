@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3" moduleId="EdW_Block_Brown_12x7_Id">
+    <version>1</version>
+    <author>di0x7c5</author>
+    <title>Block Brown 12x7</title>
+    <label>B</label>
+    <date>2021-02-08</date>
+    <tags>
+        <tag>EdW</tag>
+    </tags>
+
+    <description>Block Brown 12x7</description>
+
+    <properties>
+        <property name="family">Common</property>
+    </properties>
+
+    <views>
+        <iconView>
+            <layers image="schematic/EdW_Block_Brown_12x7.svg">
+                <layer layerId="icon" />
+            </layers>
+        </iconView>
+        <schematicView>
+            <layers image="schematic/EdW_Block_Brown_12x7.svg">
+                <layer layerId="schematic" />
+            </layers>
+        </schematicView>
+    </views>
+
+    <connectors>
+        <connector id="connector0" name="0" type="male">
+            <description>Pin 0</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector0pin" terminalId="connector0terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector1" name="1" type="male">
+            <description>Pin 1</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pin" terminalId="connector1terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector2" name="2" type="male">
+            <description>Pin 2</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector2pin" terminalId="connector2terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector3" name="3" type="male">
+            <description>Pin 3</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector3pin" terminalId="connector3terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector4" name="4" type="male">
+            <description>Pin 4</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector4pin" terminalId="connector4terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector5" name="5" type="male">
+            <description>Pin 5</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector5pin" terminalId="connector5terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector6" name="6" type="male">
+            <description>Pin 6</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector6pin" terminalId="connector6terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector7" name="7" type="male">
+            <description>Pin 7</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector7pin" terminalId="connector7terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector8" name="8" type="male">
+            <description>Pin 8</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector8pin" terminalId="connector8terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector9" name="9" type="male">
+            <description>Pin 9</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector9pin" terminalId="connector9terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector10" name="10" type="male">
+            <description>Pin 10</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector10pin" terminalId="connector10terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector11" name="11" type="male">
+            <description>Pin 11</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector11pin" terminalId="connector11terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector12" name="12" type="male">
+            <description>Pin 12</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector12pin" terminalId="connector12terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector13" name="13" type="male">
+            <description>Pin 13</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector13pin" terminalId="connector13terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector14" name="14" type="male">
+            <description>Pin 14</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector14pin" terminalId="connector14terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector15" name="15" type="male">
+            <description>Pin 15</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector15pin" terminalId="connector15terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector16" name="16" type="male">
+            <description>Pin 16</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector16pin" terminalId="connector16terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector17" name="17" type="male">
+            <description>Pin 17</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector17pin" terminalId="connector17terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector18" name="18" type="male">
+            <description>Pin 18</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector18pin" terminalId="connector18terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector19" name="19" type="male">
+            <description>Pin 19</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector19pin" terminalId="connector19terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector20" name="20" type="male">
+            <description>Pin 20</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector20pin" terminalId="connector20terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector21" name="21" type="male">
+            <description>Pin 21</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector21pin" terminalId="connector21terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector22" name="22" type="male">
+            <description>Pin 22</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector22pin" terminalId="connector22terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector23" name="23" type="male">
+            <description>Pin 23</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector23pin" terminalId="connector23terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector24" name="24" type="male">
+            <description>Pin 24</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector24pin" terminalId="connector24terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector25" name="25" type="male">
+            <description>Pin 25</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector25pin" terminalId="connector25terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector26" name="26" type="male">
+            <description>Pin 26</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector26pin" terminalId="connector26terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector27" name="27" type="male">
+            <description>Pin 27</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector27pin" terminalId="connector27terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector28" name="28" type="male">
+            <description>Pin 28</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector28pin" terminalId="connector28terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector29" name="29" type="male">
+            <description>Pin 29</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector29pin" terminalId="connector29terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector30" name="30" type="male">
+            <description>Pin 30</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector30pin" terminalId="connector30terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector31" name="31" type="male">
+            <description>Pin 31</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector31pin" terminalId="connector31terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector32" name="32" type="male">
+            <description>Pin 32</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector32pin" terminalId="connector32terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector33" name="33" type="male">
+            <description>Pin 33</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector33pin" terminalId="connector33terminal" />
+                </schematicView>
+            </views>
+        </connector>
+    </connectors>
+</module>
