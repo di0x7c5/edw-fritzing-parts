@@ -1,6 +1,6 @@
 VERSION_MAJOR := 0
 VERSION_MINOR := 1
-VERSION_RELEASE := 0
+VERSION_RELEASE := 1
 
 PWD := $(shell pwd)
 BUILD := $(PWD)/build
