@@ -1,0 +1,28 @@
+**2021-02-08: v0.1.1**
+
+Fixes:
+* Use PNG as an icon instead SVG (Issue #1)
+
+New elements:
+* Thyristor
+* 12x7 blocks
+* AND gate with 4 inputs
+* OR gate with 4 inputs
+* Light bulb
+* Reed switch
+* Ammeters and voltmeters
+* Current source
+* Generic label 70 mils
+* RCA Connectors
+* Description polarization plus and minus
+* Add MOSFET P/N with diode
+
+Changes:
+* Switch gain with source in MOSFET P
+* Remove custom ICs
+* Do not create folders fzp/svg when not necessary
+* Remove unsupported attribute .horizontal disc
+* Change label for microphones to M
+
+**2021-01-31: v0.1.0**
+* First release.
