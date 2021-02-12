@@ -1,5 +1,7 @@
 # SVG Cheetsheet 
 
+SVG Tutorial: https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
+
 ## Common
 * `class='XXX'`
 * `id='XXX'`
