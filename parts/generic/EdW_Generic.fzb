@@ -834,6 +834,14 @@
             </views>
         </instance>
 
+        <instance moduleIdRef="EdW_GateNot_In_Id" path="EdW_GateNot_In.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
         <instance moduleIdRef="EdW_GateNotSchmitt_Id" path="EdW_GateNotSchmitt.fzp">
             <views>
                 <iconView layer="icon">
