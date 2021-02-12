@@ -42,7 +42,15 @@
             </views>
         </instance>
 
-        <instance moduleIdRef="EdW_IC_FlipFlop_D_Id" path="EdW_IC_FlipFlop_D.fzp">
+        <instance moduleIdRef="EdW_IC_FlipFlop_RS_Id" path="EdW_IC_FlipFlop_RS.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_IC_FlipFlop_RST_Id" path="EdW_IC_FlipFlop_RST.fzp">
             <views>
                 <iconView layer="icon">
                     <geometry z="-1" x="-1" y="-1"></geometry>
@@ -51,6 +59,22 @@
         </instance>
 
         <instance moduleIdRef="EdW_IC_FlipFlop_JK_Id" path="EdW_IC_FlipFlop_JK.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_IC_FlipFlop_T_Id" path="EdW_IC_FlipFlop_T.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_IC_FlipFlop_D_Id" path="EdW_IC_FlipFlop_D.fzp">
             <views>
                 <iconView layer="icon">
                     <geometry z="-1" x="-1" y="-1"></geometry>

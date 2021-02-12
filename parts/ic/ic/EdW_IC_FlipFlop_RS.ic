@@ -1,0 +1,15 @@
+.version 1
+.author di0x7c5
+.label U
+.title RS Flip-Flop
+.partnumber generic
+.description RS Flip-Flop
+.nopinnr
+
+.height 10
+.width 10
+
+L - 2 1 R
+L - 8 2 S
+R - 2 3 Q
+R o 8 4 Q
