@@ -18,7 +18,7 @@ FRITZING := $(FRITZING_PATH)/Fritzing
 
 default: all
 
-all: build-all-parts tar
+all: build-all-parts
 
 # Prepare the build root tree
 build-prepare:
@@ -41,7 +41,7 @@ parts-%: build-prepare
 icupdate: build-prepare $(SCRIPTS)/icupdate.sh
 	@$(SCRIPTS)/icupdate.sh
 
-tar: $(OUT)/$(TARGET)
+release: $(OUT)/$(TARGET)
 
 .ONESHELL:
 $(OUT)/$(TARGET):
@@ -62,4 +62,4 @@ run:
 clean:
 	rm -fr $(BUILD) $(OUT) tmp/
 
-.PHONY: default all clean parts-% build-prepare build-all-parts tar install icupdate run
+.PHONY: default all clean parts-% build-prepare build-all-parts release install icupdate run
