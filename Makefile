@@ -49,9 +49,9 @@ $(OUT)/$(TARGET):
 	mkdir -p $(OUT)
 	tar -zcvf $(OUT)/$(TARGET) *
 
-install: $(OUT)/$(TARGET) $(FRITZING)
+install: build-all-parts $(FRITZING)
 	find $(FRITZING_PARTS) -name EdW_* -exec rm {} \;
-	tar -zxvf $(OUT)/$(TARGET) -C $(FRITZING_PARTS)
+	cp -r $(BUILD)/* $(FRITZING_PARTS)
 	rm -f $(FRITZING_PARTS)/parts.db
 	$(FRITZING) -db $(FRITZING_PARTS)/parts.db
 
