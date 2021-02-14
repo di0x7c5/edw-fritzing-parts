@@ -922,6 +922,14 @@
             </views>
         </instance>
 
+        <instance moduleIdRef="EdW_GateOr_3IN_Id" path="EdW_GateOr_3IN.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
         <instance moduleIdRef="EdW_GateOr_4IN_Id" path="EdW_GateOr_4IN.fzp">
             <views>
                 <iconView layer="icon">
