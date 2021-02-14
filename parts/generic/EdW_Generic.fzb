@@ -850,6 +850,22 @@
             </views>
         </instance>
 
+        <instance moduleIdRef="EdW_Gate3State_H_Id" path="EdW_Gate3State_H.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_Gate3State_L_Id" path="EdW_Gate3State_L.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
         <instance moduleIdRef="EdW_GateAnd_Id" path="EdW_GateAnd.fzp">
             <views>
                 <iconView layer="icon">
