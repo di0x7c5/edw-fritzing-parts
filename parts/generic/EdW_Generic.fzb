@@ -882,6 +882,14 @@
             </views>
         </instance>
 
+        <instance moduleIdRef="EdW_GateNand_3IN_Id" path="EdW_GateNand_3IN.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
         <instance moduleIdRef="EdW_GateNandSchmitt_Id" path="EdW_GateNandSchmitt.fzp">
             <views>
                 <iconView layer="icon">
