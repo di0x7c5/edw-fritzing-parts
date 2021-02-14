@@ -1562,5 +1562,13 @@
                 </iconView>
             </views>
         </instance>
+
+        <instance moduleIdRef="EdW_Motor_DC_Id" path="EdW_Motor_DC.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
     </instances>
 </module>
