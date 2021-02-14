@@ -938,6 +938,14 @@
             </views>
         </instance>
 
+        <instance moduleIdRef="EdW_GateNor_Id" path="EdW_GateNor.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
         <instance moduleIdRef="EdW_GateXor_Id" path="EdW_GateXor.fzp">
             <views>
                 <iconView layer="icon">
@@ -947,14 +955,6 @@
         </instance>
 
         <instance moduleIdRef="EdW_GateXnor_Id" path="EdW_GateXnor.fzp">
-            <views>
-                <iconView layer="icon">
-                    <geometry z="-1" x="-1" y="-1"></geometry>
-                </iconView>
-            </views>
-        </instance>
-
-        <instance moduleIdRef="EdW_GateNor_Id" path="EdW_GateNor.fzp">
             <views>
                 <iconView layer="icon">
                     <geometry z="-1" x="-1" y="-1"></geometry>
