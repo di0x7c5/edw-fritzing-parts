@@ -2,6 +2,38 @@
 <module fritzingVersion="0.9.3" icon="EdW_Description_icon.png">
     <title>EdW Description</title>
     <instances>
+        <instance moduleIdRef="__spacer__" path="Columns">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_Column_1_Id" path="EdW_Column_1.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_Column_2_Id" path="EdW_Column_2.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_Column_3_Id" path="EdW_Column_3.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
         <instance moduleIdRef="__spacer__" path="Polarity">
             <views>
                 <iconView layer="icon">
