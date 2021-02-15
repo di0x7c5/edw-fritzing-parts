@@ -738,6 +738,14 @@
             </views>
         </instance>
 
+        <instance moduleIdRef="EdW_Transistor_NPN_2E_Id" path="EdW_Transistor_NPN_2E.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
         <instance moduleIdRef="EdW_Transistor_PNP_Id" path="EdW_Transistor_PNP.fzp">
             <views>
                 <iconView layer="icon">
