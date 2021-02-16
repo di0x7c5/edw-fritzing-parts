@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3" moduleId="EdW_Phototransistor_PNP_Id">
+    <version>1</version>
+    <author>di0x7c5</author>
+    <title>Phototransistor PNP</title>
+    <label>PT</label>
+    <date>2021-02-15</date>
+    <tags>
+        <tag>EdW</tag>
+    </tags>
+
+    <description>Phototransistor PNP</description>
+
+    <properties>
+        <property name="family">Common</property>
+    </properties>
+
+    <views>
+        <iconView>
+            <layers image="schematic/EdW_Phototransistor_PNP.svg">
+                <layer layerId="icon" />
+            </layers>
+        </iconView>
+        <schematicView>
+            <layers image="schematic/EdW_Phototransistor_PNP.svg">
+                <layer layerId="schematic" />
+            </layers>
+        </schematicView>
+    </views>
+
+    <connectors>
+        <connector id="connector0" name="Pin 0" type="male">
+            <description>Pin 0</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector0pin" terminalId="connector0terminal" />
+                </schematicView>
+            </views>
+        </connector>
+        <connector id="connector1" name="Pin 1" type="male">
+            <description>Pin 1</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector1pin" terminalId="connector1terminal" />
+                </schematicView>
+            </views>
+        </connector>
+    </connectors>
+</module>
