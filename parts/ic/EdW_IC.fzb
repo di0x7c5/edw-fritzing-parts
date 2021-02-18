@@ -330,6 +330,46 @@
             </views>
         </instance>
 
+        <instance moduleIdRef="EdW_IC_ATmega328_Id" path="EdW_IC_ATmega328.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_IC_ATtiny102_Id" path="EdW_IC_ATtiny102.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_IC_ATtiny104_Id" path="EdW_IC_ATtiny104.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_IC_ATtiny20_Id" path="EdW_IC_ATtiny20.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
+        <instance moduleIdRef="EdW_IC_ATmega4809_PDIP_Id" path="EdW_IC_ATmega4809_PDIP.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="-1" x="-1" y="-1"></geometry>
+                </iconView>
+            </views>
+        </instance>
+
         <instance moduleIdRef="__spacer__" path="Raspberry Pi">
             <views>
                 <iconView layer="icon">

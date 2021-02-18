@@ -1,0 +1,39 @@
+.version 1
+.author di0x7c5
+.label U
+.title ATmega328
+.description ATmega328
+
+.height 30
+.width 16
+.tint BLUE
+
+L - 2 1 PC6
+L - 4 2 PD0
+L - 6 3 PD1
+L - 8 4 PD2
+L - 10 5 PD3
+L - 12 6 PD4
+L - 14 7 VCC
+L - 16 8 GND
+L - 18 9 PB6 (XTAL1)
+L - 20 10 PB7 (XTAL2)
+L - 22 11 PD5
+L - 24 12 PD6
+L - 26 13 PD7
+L - 28 14 PB0
+
+R - 2 28 PC5
+R - 4 27 PC4
+R - 6 26 PC3
+R - 8 25 PC2
+R - 10 24 PC1
+R - 12 23 PC0
+R - 14 22 GND
+R - 16 21 AREF
+R - 18 20 AVCC
+R - 20 19 PB5
+R - 22 18 PB4
+R - 24 17 PB3
+R - 26 16 PB2
+R - 28 15 PB1

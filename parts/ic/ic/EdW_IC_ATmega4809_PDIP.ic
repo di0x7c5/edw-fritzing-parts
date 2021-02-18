@@ -1,0 +1,53 @@
+.version 1
+.author di0x7c5
+.label U
+.title ATmega4809 (PDIP)
+.description ATmega4809 (PDIP)
+
+.partnumber ATmega4809
+
+.height 42
+.width 16
+.tint BLUE
+
+L - +2 1 PC0
+L - +2 2 PC1
+L - +2 3 PC2
+L - +2 4 PC3
+L - +2 5 VDD
+L - +2 6 GND
+L - +2 7 PC4
+L - +2 8 PC5
+L - +2 9 PD0
+L - +2 10 PD1
+L - +2 11 PD2
+L - +2 12 PD3
+L - +2 13 PD4
+L - +2 14 PD5
+L - +2 15 PD6
+L - +2 16 PD7
+L - +2 17 AVDD
+L - +2 18 GND
+L - +2 19 PE0
+L - +2 20 PE1
+
+R - +2 40 PA7
+R - +2 39 PA6
+R - +2 38 PA5
+R - +2 37 PA4
+R - +2 36 PA3
+R - +2 35 PA2
+R - +2 34 PA1
+R - +2 33 (EXTCLK) PA0
+R - +2 32 GND
+R - +2 31 VDD
+R - +2 30 UPDI
+R - +2 29 PF6
+R - +2 28 PF5
+R - +2 27 PF4
+R - +2 26 PF3
+R - +2 25 PF2
+R - +2 24 (TOSC2) PF1
+R - +2 23 (TOSC1) PF0
+R - +2 22 PE3
+R - +2 21 PE2
