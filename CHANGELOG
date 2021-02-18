@@ -1,3 +1,48 @@
+**2021-02-18: v0.1.2**
+
+New elements:
+* IC: ATmega 328
+* IC: ATmega 4809
+* IC: ATtiny 102
+* IC: ATtiny 104
+* IC: ATtiny 20
+* IC: CMOS 4541
+* IC: CMOS 4047
+* IC: RS, RST and T flip flop
+* Generic: Phototransistors
+* Generic: PNP transistor with 2 emitters
+* Generic: NPN transistor with 2 emitters
+* Generic: DC Motor
+* Generic: 8-input AND gate
+* Generic: 8-input OR gate
+* Generic: 8-input NOR gate
+* Generic: 8-input positive NAND gate
+* Generic: 8-input NAND Schmitt gate
+* Generic: 4-input NAND gate
+* Generic: 4-input NAND Schmitt gate
+* Generic: 4-input NOR gate
+* Generic: 4-input positive NOR gates with strobe
+* Generic: 3-input NOR gate
+* Generic: 3-input AND gate
+* Generic: 3-input OR gate
+* Generic: 3-input NAND gate
+* Generic: 3-input NAND Schmitt gate
+* Generic: buffer gate with three state output
+* Description: Pin number labels
+* Description: Column width templates
+* Generic: Add inverter with negation on input
+* Generic: Add arc terminal
+
+Changes:
+* Scripts: Update `labelgen.sh` to generate pinnr
+* IC: Short Not/Buffer pins
+* Generic: Change Thyristor label to Ty
+* Generic: Change order, put NOR after OR gates
+* Makefile: Use build instead out to install parts
+* Makefile: Rename tar rule to release
+* Doc: Add SVG Tutorial link
+* Generic: Update date for 4-input AND gate
+
 **2021-02-08: v0.1.1**
 
 Fixes:
