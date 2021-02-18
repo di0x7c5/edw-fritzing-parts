@@ -29,6 +29,70 @@ DESC_LABEL_B_TOP="Label long top"
 DESC_LABEL_B_BOTTOM="Label long bottom"
 
 FILENAME_CHARACTER_3x3_SVG="EdW_Character_3x3"
+FILENAME_PINNR="EdW_IC_PinNr"
+
+function pinnr_svg {
+    local NR=$1
+
+cat << EOF
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='0.10in' height='0.10in' viewBox='0 0 10 10'>
+<g id='schematic'>
+<text class='text' font-family='Arial' font-size='7' x='5' y='8' fill='#000000' stroke='#000000' stroke-width='0.216' text-anchor='middle'>${NR}</text>
+<circle class='pin' id='connector0pin' connectorname='0' cx='0' cy='0' r='0.0001' stroke='none' fill='none' />
+<rect class='terminal' id='connector0terminal' x='0' y='0' width='0.0001' height='0.0001' fill='none' stroke='none' />
+</g>
+</svg>
+EOF
+}
+
+function pinnr_fzp {
+    local NR=$1
+
+cat << EOF
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3" moduleId="${FILENAME_PINNR}_${NR}_Id">
+    <version>1</version>
+    <author>di0x7c5</author>
+    <title>${NR}</title>
+    <label>_</label>
+    <date>2021-02-17</date>
+    <tags>
+        <tag>EdW</tag>
+    </tags>
+
+    <description>IC pin number ${NR}</description>
+
+    <properties>
+        <property name="family">Description</property>
+    </properties>
+
+    <views>
+        <iconView>
+            <layers image="schematic/${FILENAME_PINNR}_${NR}.svg">
+                <layer layerId="icon" />
+            </layers>
+        </iconView>
+        <schematicView>
+            <layers image="schematic/${FILENAME_PINNR}_${NR}.svg">
+                <layer layerId="schematic" />
+            </layers>
+        </schematicView>
+    </views>
+
+    <connectors>
+        <connector id="connector0" name="Pin 0" type="male">
+            <description>Pin 0</description>
+            <views>
+                <schematicView>
+                    <p layer="schematic" svgId="connector0pin" terminalId="connector0terminal" />
+                </schematicView>
+            </views>
+        </connector>
+    </connectors>
+</module>
+EOF
+}
 
 function label_fzp {
     local NAME=$1
@@ -213,6 +277,15 @@ EOF
 
 # Remove generated file and create a new one
 rm -f ${FILENAME_FZP}
+
+#
+# Generate Pin Numbers
+#
+for X in $(seq 28); do
+    fzp_instance ${FILENAME_PINNR}_${X} >> ${FILENAME_FZP}
+    pinnr_fzp $X > ${FILENAME_PINNR}_${X}.fzp
+    pinnr_svg $X > ${FILENAME_PINNR}_${X}.svg
+done
 
 #
 # Generate Characters
