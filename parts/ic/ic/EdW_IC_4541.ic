@@ -1,0 +1,26 @@
+.version 1
+.author di0x7c5
+.label U
+.title 4541
+.description 4541
+
+.width 12
+.height 16
+
+L - +2 1 RTC
+L - +2 2 CTC
+L - +2 3 RS
+L - +2 4 N/C
+L - +2 5 ARST
+L - +2 6 MRST
+L - +2 7 GND
+
+R - +2 14 VCC
+R - +2 13 B
+R - +2 12 A
+R - +2 11 N/C
+R - +2 10 MODE
+R - +2 9 QSEL
+R - +2 8 OUT
+
+
