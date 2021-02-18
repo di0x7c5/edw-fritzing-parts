@@ -1,0 +1,24 @@
+.version 1
+.author di0x7c5
+.label U
+.title 4047
+.description Multivibrator
+
+.width 11
+.height 16
+
+L - +2 1 C
+L - +2 2 R
+L - +2 3 RCC
+L o +2 4 AST
+L - +2 5 AST
+L - +2 6 -T
+L - +2 7 GND
+
+R - +2 14 VCC
+R - +2 13 OSC
+R - +2 12 RTRG
+R o +2 11 Q
+R - +2 10 Q
+R - +2 9 RST
+R - +2 8 +T
